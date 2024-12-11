@@ -1,2 +1,2 @@
 # Java
-Repositório com exercícios e projetos que desenvolvi em Java
+Exercícios e projetos em Java
